@@ -1,5 +1,5 @@
-# Student-Performance-Analysis
 📊 Student Performance Analysis Using Python
+
 📌 Project Overview
 
 This project analyzes student academic performance based on demographic and educational factors such as gender, ethnicity, parental education, and test preparation. The goal is to identify patterns and insights that influence student scores in Math, Reading, and Writing using Python data analysis and visualization techniques.
